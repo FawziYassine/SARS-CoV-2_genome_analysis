@@ -1,1 +1,1 @@
-# SARS-CoV-2_genome_analysis
+# Analysis of SARS-CoV-2 Genome
