@@ -1,4 +1,4 @@
 # Analysis (Python) of the Genome of SARS-CoV-2 Virus
-NotebookNotebook
+
 [SARS-CoV-2_genome_analysis.ipynb](SARS-CoV-2_genome_analysis.ipynb) contains the analysis report (Jupyter Notebook).
-Notebook
+
