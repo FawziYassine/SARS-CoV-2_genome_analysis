@@ -6,7 +6,6 @@ def editDistanceRecursive(a, b):
 	if len(b) == 0:
 		return len(a)
 
-
 	delt = 1 if a[-1] != b[-1] else 0 # delt = 1 if the last characters of 'a' and 'b' are equal otherwise delt = 0 
 	return min(editDistanceRecursive(a[:-1], b[:-1]) + delt,
 		   editDistanceRecursive(a[:-1], b) + 1,
