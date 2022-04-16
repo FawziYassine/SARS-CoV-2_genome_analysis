@@ -1,4 +1,3 @@
-\
 from itertools import permutations
 
 def overlap(a, b, minLength = 3):
