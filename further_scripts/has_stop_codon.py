@@ -1,5 +1,4 @@
 def has_stop_codon(dna, frame = 0) :
-	"das      sd"
 	has_stop_codon = False
 	stop_codon = ['tag','tga','taa']
 
